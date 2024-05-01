@@ -16,15 +16,6 @@ public class Sum {
         int sum = a + b;
         System.out.println("Your ans is:" + sum);
 
-        System.out.println("========== Multiplication =============");
-        System.out.print("Enter the value of C:");
-        int c = obj.nextInt();
-
-        System.out.print("Enter the number of D:");
-        int d = obj.nextInt();
-
-        int mul = c * d;
-        System.out.print("Multi is:" + mul);
 
     }
 
